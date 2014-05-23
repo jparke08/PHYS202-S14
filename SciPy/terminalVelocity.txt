@@ -1,0 +1,10 @@
+# Projectile                 Speed(m/s)         Initial Angle(Degrees)
+Golfball			081			045
+        			081			030
+        			097			060
+Baseball			079			045
+        			079			030
+        			095			060
+Pumpkin 			153			045
+        			143			030
+        			194			060
